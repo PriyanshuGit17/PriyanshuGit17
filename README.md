@@ -1,16 +1,29 @@
-## Hi there 👋
+ # Hi 👋, I'm Priyanshu Singh
 
-<!--
-**PriyanshuGit17/PriyanshuGit17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BCA Graduate | Frontend Developer | Computer Graphics | Python & AI/ML
 
-Here are some ideas to get you started:
+* 🔭 Building projects with **Python, Frontend & AI/ML**
+* 🌱 Learning **DSA, Web Development & Machine Learning**
+* 🎨 Interested in **Frontend Development & Computer Graphics**
+* 🎯 Looking to start my career in the **IT industry**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Python • Java • SQL • HTML • CSS • JavaScript • Computer Graphics • Machine Learning • Git & GitHub**
+
+### 🚀 Projects
+
+🌱 [Crop Leaf Disease Detection](https://github.com/PriyanshuGit17/crop-leaf-disease-detection)
+
+🔊 [Text-to-Speech Converter](https://github.com/PriyanshuGit17/text-to-speech-conveter)
+
+🚦 [Traffic Management Using OS](https://github.com/PriyanshuGit17/traffic-management-using-os)
+
+### 📫 Connect With Me
+
+💼 [LinkedIn-Priyanshu Singh] (https://www.linkedin.com/in/priyanshu-singh-8644702a9/)
+
+📧  [priyanshusingh52509@gmail.com](mailto:priyanshusingh52509@gmail.com)
+
+⭐ Thanks for visiting my profile!
+
