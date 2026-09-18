@@ -21,7 +21,7 @@
 
 ### 📫 Connect With Me
 
-💼 [LinkedIn-Priyanshu Singh] (https://www.linkedin.com/in/priyanshu-singh-8644702a9/)
+💼 [LinkedIn-Priyanshu Singh](https://www.linkedin.com/in/priyanshu-singh-8644702a9/)
 
 📧  [priyanshusingh52509@gmail.com](mailto:priyanshusingh52509@gmail.com)
 
